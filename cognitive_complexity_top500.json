@@ -1,0 +1,2002 @@
+[
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/offer/MutableOfferViewModel.java",
+    "cognitive_complexity": "319"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/offer/offerbook/OfferBookView.java",
+    "cognitive_complexity": "304"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/network/Connection.java",
+    "cognitive_complexity": "228"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/support/dispute/DisputeView.java",
+    "cognitive_complexity": "225"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/GUIUtil.java",
+    "cognitive_complexity": "192"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/wallet/tx/BsqTxView.java",
+    "cognitive_complexity": "158"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/app/BisqSetup.java",
+    "cognitive_complexity": "157"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/offer/MutableOfferView.java",
+    "cognitive_complexity": "155"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/shared/ChatView.java",
+    "cognitive_complexity": "151"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/offer/OpenOfferManager.java",
+    "cognitive_complexity": "140"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/wallet/BtcWalletService.java",
+    "cognitive_complexity": "131"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/pendingtrades/PendingTradesView.java",
+    "cognitive_complexity": "129"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/P2PService.java",
+    "cognitive_complexity": "127"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/funds/transactions/TransactionsListItem.java",
+    "cognitive_complexity": "127"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/paymentmethods/GeneralBankForm.java",
+    "cognitive_complexity": "125"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/pendingtrades/PendingTradesDataModel.java",
+    "cognitive_complexity": "124"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/settings/preferences/PreferencesView.java",
+    "cognitive_complexity": "121"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/governance/proposals/ProposalsView.java",
+    "cognitive_complexity": "121"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/offer/offerbook/OfferBookViewModel.java",
+    "cognitive_complexity": "118"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/openoffer/OpenOffersView.java",
+    "cognitive_complexity": "115"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/pendingtrades/steps/TradeStepView.java",
+    "cognitive_complexity": "115"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/offer/takeoffer/TakeOfferView.java",
+    "cognitive_complexity": "113"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/governance/result/VoteResultView.java",
+    "cognitive_complexity": "112"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/funds/transactions/TransactionsView.java",
+    "cognitive_complexity": "109"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/Overlay.java",
+    "cognitive_complexity": "108"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/funds/withdrawal/WithdrawalView.java",
+    "cognitive_complexity": "108"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/offer/takeoffer/TakeOfferViewModel.java",
+    "cognitive_complexity": "102"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/burnbsq/proofofburn/ProofOfBurnView.java",
+    "cognitive_complexity": "101"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/account/AccountView.java",
+    "cognitive_complexity": "98"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/wallet/BsqWalletService.java",
+    "cognitive_complexity": "98"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/DisputeSummaryWindow.java",
+    "cognitive_complexity": "95"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/account/content/notifications/MobileNotificationsView.java",
+    "cognitive_complexity": "95"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/peers/PeerManager.java",
+    "cognitive_complexity": "94"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/governance/ProposalDisplay.java",
+    "cognitive_complexity": "90"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/storage/P2PDataStorage.java",
+    "cognitive_complexity": "88"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/peers/getdata/RequestDataManager.java",
+    "cognitive_complexity": "88"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/wallet/WalletService.java",
+    "cognitive_complexity": "87"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/market/offerbook/OfferBookChartViewModel.java",
+    "cognitive_complexity": "85"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/paymentmethods/CashDepositForm.java",
+    "cognitive_complexity": "84"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/Trade.java",
+    "cognitive_complexity": "84"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/setup/WalletConfig.java",
+    "cognitive_complexity": "83"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/network/NetworkNode.java",
+    "cognitive_complexity": "82"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/wallet/TradeWalletService.java",
+    "cognitive_complexity": "82"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/market/offerbook/OfferBookChartView.java",
+    "cognitive_complexity": "81"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/pendingtrades/steps/buyer/BuyerStep2View.java",
+    "cognitive_complexity": "80"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/MainViewModel.java",
+    "cognitive_complexity": "80"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/OfferDetailsWindow.java",
+    "cognitive_complexity": "78"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/market/spread/SpreadViewModel.java",
+    "cognitive_complexity": "78"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/TradeManager.java",
+    "cognitive_complexity": "78"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/provider/price/PriceFeedService.java",
+    "cognitive_complexity": "77"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/market/trades/charts/price/CandleStickChart.java",
+    "cognitive_complexity": "76"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/storage/FileUtil.java",
+    "cognitive_complexity": "76"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/pendingtrades/PendingTradesViewModel.java",
+    "cognitive_complexity": "76"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/paymentmethods/BankForm.java",
+    "cognitive_complexity": "75"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/market/trades/TradesChartsView.java",
+    "cognitive_complexity": "75"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/voteresult/VoteResultService.java",
+    "cognitive_complexity": "75"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/notifications/alerts/market/MarketAlerts.java",
+    "cognitive_complexity": "74"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/pendingtrades/steps/seller/SellerStep3View.java",
+    "cognitive_complexity": "74"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/peers/BroadcastHandler.java",
+    "cognitive_complexity": "73"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/MainView.java",
+    "cognitive_complexity": "73"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/notifications/NotificationCenter.java",
+    "cognitive_complexity": "73"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/peers/peerexchange/PeerExchangeManager.java",
+    "cognitive_complexity": "73"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/user/Preferences.java",
+    "cognitive_complexity": "73"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/monitor/StateMonitorView.java",
+    "cognitive_complexity": "72"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/account/witness/AccountAgeWitnessService.java",
+    "cognitive_complexity": "70"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/TradeDetailsWindow.java",
+    "cognitive_complexity": "69"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/support/dispute/DisputeManager.java",
+    "cognitive_complexity": "68"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/offer/MutableOfferDataModel.java",
+    "cognitive_complexity": "68"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/bonding/roles/RolesView.java",
+    "cognitive_complexity": "66"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/DisplayUtils.java",
+    "cognitive_complexity": "64"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/filter/FilterManager.java",
+    "cognitive_complexity": "64"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/app/BisqApp.java",
+    "cognitive_complexity": "61"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/closedtrades/ClosedTradesView.java",
+    "cognitive_complexity": "61"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/bonding/reputation/MyReputationView.java",
+    "cognitive_complexity": "60"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/TradeProtocol.java",
+    "cognitive_complexity": "60"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/parser/TxOutputParser.java",
+    "cognitive_complexity": "59"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/user/User.java",
+    "cognitive_complexity": "58"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/support/dispute/arbitration/ArbitrationManager.java",
+    "cognitive_complexity": "57"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/offer/OfferView.java",
+    "cognitive_complexity": "57"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/offer/Offer.java",
+    "cognitive_complexity": "56"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/util/FormattingUtils.java",
+    "cognitive_complexity": "55"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/util/Utilities.java",
+    "cognitive_complexity": "55"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/governance/make/MakeProposalView.java",
+    "cognitive_complexity": "54"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/offer/takeoffer/TakeOfferDataModel.java",
+    "cognitive_complexity": "54"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/wallet/BisqRiskAnalysis.java",
+    "cognitive_complexity": "53"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/app/AvoidStandbyModeService.java",
+    "cognitive_complexity": "52"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/settings/network/NetworkSettingsView.java",
+    "cognitive_complexity": "52"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/downloadupdate/DisplayUpdateDownloadWindow.java",
+    "cognitive_complexity": "51"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/full/FullNode.java",
+    "cognitive_complexity": "51"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/indicator/skin/StaticProgressIndicatorSkin.java",
+    "cognitive_complexity": "51"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/network/TorNetworkNode.java",
+    "cognitive_complexity": "51"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/parser/TxParser.java",
+    "cognitive_complexity": "51"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/state/DaoStateService.java",
+    "cognitive_complexity": "49"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/DaoView.java",
+    "cognitive_complexity": "49"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/market/trades/charts/volume/VolumeChart.java",
+    "cognitive_complexity": "49"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/bonding/bonds/BondsView.java",
+    "cognitive_complexity": "48"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/PortfolioView.java",
+    "cognitive_complexity": "47"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/peers/getdata/RequestDataHandler.java",
+    "cognitive_complexity": "46"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/validation/AccountNrValidator.java",
+    "cognitive_complexity": "45"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/burnbsq/assetfee/AssetFeeView.java",
+    "cognitive_complexity": "45"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/proposal/ProposalService.java",
+    "cognitive_complexity": "45"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/paymentmethods/data/JapanBankData.java",
+    "cognitive_complexity": "44"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/funds/locked/LockedView.java",
+    "cognitive_complexity": "44"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/funds/reserved/ReservedView.java",
+    "cognitive_complexity": "44"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/full/RpcService.java",
+    "cognitive_complexity": "44"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/support/SupportView.java",
+    "cognitive_complexity": "44"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/closedtrades/ClosedTradesViewModel.java",
+    "cognitive_complexity": "43"
+  },
+  {
+    "path": "assets/src/main/java/bisq/asset/CryptoNoteAddressValidator.java",
+    "cognitive_complexity": "43"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/lite/network/LiteNodeNetworkService.java",
+    "cognitive_complexity": "42"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/util/DesktopUtil.java",
+    "cognitive_complexity": "41"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/paymentmethods/PaymentMethodForm.java",
+    "cognitive_complexity": "41"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/ContractWindow.java",
+    "cognitive_complexity": "40"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/locale/CurrencyUtil.java",
+    "cognitive_complexity": "39"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/monitoring/DaoStateMonitoringService.java",
+    "cognitive_complexity": "39"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/funds/deposit/DepositView.java",
+    "cognitive_complexity": "39"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/market/trades/TradesChartsViewModel.java",
+    "cognitive_complexity": "39"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/funds/transactions/TransactionAwareTrade.java",
+    "cognitive_complexity": "39"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/peers/peerexchange/PeerExchangeHandler.java",
+    "cognitive_complexity": "38"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/app/WalletAppSetup.java",
+    "cognitive_complexity": "38"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/PeerInfoIcon.java",
+    "cognitive_complexity": "37"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/ProposalResultsWindow.java",
+    "cognitive_complexity": "37"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/explorer/ExportJsonFilesService.java",
+    "cognitive_complexity": "36"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/account/content/password/PasswordView.java",
+    "cognitive_complexity": "35"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/market/spread/SpreadView.java",
+    "cognitive_complexity": "35"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/WalletPasswordWindow.java",
+    "cognitive_complexity": "35"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/failedtrades/FailedTradesView.java",
+    "cognitive_complexity": "34"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/account/sign/SignedWitnessService.java",
+    "cognitive_complexity": "34"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/setup/WalletsSetup.java",
+    "cognitive_complexity": "34"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/support/dispute/agent/DisputeAgentManager.java",
+    "cognitive_complexity": "33"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/SeparatedPhaseBars.java",
+    "cognitive_complexity": "33"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/config/Config.java",
+    "cognitive_complexity": "32"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/JFXRadioButtonSkinBisqStyle.java",
+    "cognitive_complexity": "32"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/parser/OpReturnParser.java",
+    "cognitive_complexity": "32"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/monitoring/ProposalStateMonitoringService.java",
+    "cognitive_complexity": "32"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/lite/network/RequestBlocksHandler.java",
+    "cognitive_complexity": "32"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/monitoring/network/RequestStateHashesHandler.java",
+    "cognitive_complexity": "32"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/alert/AlertManager.java",
+    "cognitive_complexity": "31"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/BsqNode.java",
+    "cognitive_complexity": "31"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/pendingtrades/steps/buyer/BuyerStep4View.java",
+    "cognitive_complexity": "31"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/proposal/ProposalValidator.java",
+    "cognitive_complexity": "31"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/wallet/send/BsqSendView.java",
+    "cognitive_complexity": "30"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/presentation/MarketPricePresentation.java",
+    "cognitive_complexity": "30"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/blindvote/MyBlindVoteListService.java",
+    "cognitive_complexity": "30"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/controlsfx/skin/PopOverSkin.java",
+    "cognitive_complexity": "30"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/monitoring/BlindVoteStateMonitoringService.java",
+    "cognitive_complexity": "29"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/storage/FileManager.java",
+    "cognitive_complexity": "29"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/editor/PeerInfoWithTagEditor.java",
+    "cognitive_complexity": "29"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/SendAlertMessageWindow.java",
+    "cognitive_complexity": "29"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/wallet/BisqDefaultCoinSelector.java",
+    "cognitive_complexity": "28"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/notifications/alerts/TradeEvents.java",
+    "cognitive_complexity": "28"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/bonding/BondingViewUtils.java",
+    "cognitive_complexity": "27"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/payment/payload/CashDepositAccountPayload.java",
+    "cognitive_complexity": "27"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/support/dispute/DisputeListService.java",
+    "cognitive_complexity": "27"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/FilterWindow.java",
+    "cognitive_complexity": "27"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/support/dispute/mediation/MediationManager.java",
+    "cognitive_complexity": "27"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/support/SupportManager.java",
+    "cognitive_complexity": "27"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/AxisInlierUtils.java",
+    "cognitive_complexity": "26"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/notifications/MobileModel.java",
+    "cognitive_complexity": "26"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/offer/OfferUtil.java",
+    "cognitive_complexity": "26"
+  },
+  {
+    "path": "monitor/src/main/java/bisq/monitor/metric/PriceNodeStats.java",
+    "cognitive_complexity": "26"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/app/SystemTray.java",
+    "cognitive_complexity": "26"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/account/content/fiataccounts/FiatAccountsView.java",
+    "cognitive_complexity": "25"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/account/content/notifications/ManageMarketAlertsWindow.java",
+    "cognitive_complexity": "25"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/app/P2PNetworkSetup.java",
+    "cognitive_complexity": "25"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/asset/AssetService.java",
+    "cognitive_complexity": "24"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/AutocompleteComboBox.java",
+    "cognitive_complexity": "24"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/proposal/param/ChangeParamValidator.java",
+    "cognitive_complexity": "24"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/state/GenesisTxInfo.java",
+    "cognitive_complexity": "24"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/offer/OfferBookService.java",
+    "cognitive_complexity": "24"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/governance/result/ProposalListItem.java",
+    "cognitive_complexity": "24"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/blindvote/network/RepublishGovernanceDataHandler.java",
+    "cognitive_complexity": "24"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/account/content/backup/BackupView.java",
+    "cognitive_complexity": "23"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/locale/BankUtil.java",
+    "cognitive_complexity": "23"
+  },
+  {
+    "path": "monitor/src/main/java/bisq/monitor/metric/P2PSeedNodeSnapshot.java",
+    "cognitive_complexity": "23"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/controlsfx/control/PopOver.java",
+    "cognitive_complexity": "23"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/downloadupdate/BisqInstaller.java",
+    "cognitive_complexity": "22"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/config/ConfigFileEditor.java",
+    "cognitive_complexity": "22"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/validation/EmailValidator.java",
+    "cognitive_complexity": "22"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/app/misc/ExecutableForAppWithP2p.java",
+    "cognitive_complexity": "22"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/provider/fee/FeeService.java",
+    "cognitive_complexity": "22"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/validation/IBANValidator.java",
+    "cognitive_complexity": "22"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/paymentmethods/JapanBankTransferForm.java",
+    "cognitive_complexity": "22"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/peers/keepalive/KeepAliveManager.java",
+    "cognitive_complexity": "22"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/market/MarketView.java",
+    "cognitive_complexity": "22"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/monetary/Price.java",
+    "cognitive_complexity": "22"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/downloadupdate/VerifyTask.java",
+    "cognitive_complexity": "22"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/wallet/tx/BsqTxListItem.java",
+    "cognitive_complexity": "21"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/support/dispute/refund/RefundManager.java",
+    "cognitive_complexity": "21"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/network/Server.java",
+    "cognitive_complexity": "21"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/validation/BtcValidator.java",
+    "cognitive_complexity": "20"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/tasks/buyer/BuyerSetupDepositTxListener.java",
+    "cognitive_complexity": "20"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/Contract.java",
+    "cognitive_complexity": "20"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/FeeOptionWindow.java",
+    "cognitive_complexity": "20"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/full/network/FullNodeNetworkService.java",
+    "cognitive_complexity": "20"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/funds/FundsView.java",
+    "cognitive_complexity": "20"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/governance/GovernanceView.java",
+    "cognitive_complexity": "20"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/peers/keepalive/KeepAliveHandler.java",
+    "cognitive_complexity": "20"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/TorNetworkSettingsWindow.java",
+    "cognitive_complexity": "20"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/config/BisqHelpFormatter.java",
+    "cognitive_complexity": "19"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/bond/BondRepository.java",
+    "cognitive_complexity": "19"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/validation/BranchIdValidator.java",
+    "cognitive_complexity": "19"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/validation/BsqValidator.java",
+    "cognitive_complexity": "19"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/state/DaoStateSnapshotService.java",
+    "cognitive_complexity": "19"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/InputTextField.java",
+    "cognitive_complexity": "19"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/lite/LiteNode.java",
+    "cognitive_complexity": "19"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/validation/PhoneNumberValidator.java",
+    "cognitive_complexity": "19"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/provider/ProvidersRepository.java",
+    "cognitive_complexity": "19"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/account/content/seedwords/SeedWordsView.java",
+    "cognitive_complexity": "19"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/tasks/SetupPayoutTxListener.java",
+    "cognitive_complexity": "19"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/tasks/VerifyPeersAccountAgeWitness.java",
+    "cognitive_complexity": "19"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/account/content/altcoinaccounts/AltCoinAccountsView.java",
+    "cognitive_complexity": "18"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/blindvote/BlindVoteListService.java",
+    "cognitive_complexity": "18"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/BtcEmptyWalletWindow.java",
+    "cognitive_complexity": "18"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/offer/placeoffer/tasks/CreateMakerFeeTx.java",
+    "cognitive_complexity": "18"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/account/content/fiataccounts/FiatAccountsDataModel.java",
+    "cognitive_complexity": "18"
+  },
+  {
+    "path": "assets/src/main/java/bisq/asset/GrinAddressValidator.java",
+    "cognitive_complexity": "18"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/http/HttpClient.java",
+    "cognitive_complexity": "18"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/proposal/MyProposalListService.java",
+    "cognitive_complexity": "18"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/Navigation.java",
+    "cognitive_complexity": "18"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/payment/PaymentAccountUtil.java",
+    "cognitive_complexity": "18"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/parser/TxInputParser.java",
+    "cognitive_complexity": "18"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/paymentmethods/AssetsForm.java",
+    "cognitive_complexity": "17"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/bonding/BondingView.java",
+    "cognitive_complexity": "17"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/wallet/BsqWalletView.java",
+    "cognitive_complexity": "17"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/DelayedPayoutTxValidation.java",
+    "cognitive_complexity": "17"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/storage/JsonFileManager.java",
+    "cognitive_complexity": "17"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/SignPaymentAccountsWindow.java",
+    "cognitive_complexity": "17"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/account/content/altcoinaccounts/AltCoinAccountsDataModel.java",
+    "cognitive_complexity": "16"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/statistics/AssetTradeActivityCheck.java",
+    "cognitive_complexity": "16"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/offer/CreateOfferService.java",
+    "cognitive_complexity": "16"
+  },
+  {
+    "path": "monitor/src/main/java/bisq/monitor/Metric.java",
+    "cognitive_complexity": "16"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/storage/payload/ProtectedStorageEntry.java",
+    "cognitive_complexity": "16"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/support/traderchat/TraderChatManager.java",
+    "cognitive_complexity": "16"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/statistics/TradeStatisticsManager.java",
+    "cognitive_complexity": "16"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/payment/payload/BankAccountPayload.java",
+    "cognitive_complexity": "15"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/BuyerAsMakerProtocol.java",
+    "cognitive_complexity": "15"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/BuyerAsTakerProtocol.java",
+    "cognitive_complexity": "15"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/DaoLaunchWindow.java",
+    "cognitive_complexity": "15"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/support/dispute/agent/DisputeAgentService.java",
+    "cognitive_complexity": "15"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/economy/EconomyView.java",
+    "cognitive_complexity": "15"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/crypto/Encryption.java",
+    "cognitive_complexity": "15"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/paymentmethods/GeneralSepaForm.java",
+    "cognitive_complexity": "15"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/InfoDisplay.java",
+    "cognitive_complexity": "15"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/notifications/MobileNotificationService.java",
+    "cognitive_complexity": "15"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/account/content/PaymentAccountsView.java",
+    "cognitive_complexity": "15"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/ProcessModel.java",
+    "cognitive_complexity": "15"
+  },
+  {
+    "path": "relay/src/main/java/bisq/relay/RelayMain.java",
+    "cognitive_complexity": "15"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/paymentmethods/SepaForm.java",
+    "cognitive_complexity": "15"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/paymentmethods/SepaInstantForm.java",
+    "cognitive_complexity": "15"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/tasks/taker/TakerPublishFeeTx.java",
+    "cognitive_complexity": "15"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/model/AddressEntryList.java",
+    "cognitive_complexity": "14"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/account/register/AgentRegistrationViewModel.java",
+    "cognitive_complexity": "14"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/economy/dashboard/BsqDashboardView.java",
+    "cognitive_complexity": "14"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/util/coin/BsqFormatter.java",
+    "cognitive_complexity": "14"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/nodes/BtcNodes.java",
+    "cognitive_complexity": "14"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/presentation/DaoPresentation.java",
+    "cognitive_complexity": "14"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/common/fxml/FxmlViewLoader.java",
+    "cognitive_complexity": "14"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/util/validation/InputValidator.java",
+    "cognitive_complexity": "14"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/merit/MeritConsensus.java",
+    "cognitive_complexity": "14"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/monitor/MonitorView.java",
+    "cognitive_complexity": "14"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/offer/OfferDataModel.java",
+    "cognitive_complexity": "14"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/payment/payload/PaymentMethod.java",
+    "cognitive_complexity": "14"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/notifications/alerts/price/PriceAlert.java",
+    "cognitive_complexity": "14"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/payment/ReceiptPredicates.java",
+    "cognitive_complexity": "14"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/nodes/SeedPeersSocks5Dns.java",
+    "cognitive_complexity": "14"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/votereveal/VoteRevealService.java",
+    "cognitive_complexity": "14"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/account/register/AgentRegistrationView.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/validation/BICValidator.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/burnbsq/BurnBsqView.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/editoffer/EditOfferDataModel.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/failed/FailedTradesManager.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/FrameRateTimer.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/ManualPayoutTxWindow.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/bond/reputation/MyBondedReputationRepository.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/network/NewTor.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "monitor/src/main/java/bisq/monitor/metric/P2PNetworkLoad.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/governance/proposals/ProposalsListItem.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/storage/payload/ProtectedMailboxStorageEntry.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/locale/Res.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/SelectProposalWindow.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/settings/SettingsView.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/storage/Storage.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/storage/persistence/StoreService.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/TextFieldWithCopyIcon.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/user/UserPayload.java",
+    "cognitive_complexity": "13"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/app/BisqExecutable.java",
+    "cognitive_complexity": "12"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/app/BisqHeadlessApp.java",
+    "cognitive_complexity": "12"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/tasks/BroadcastPayoutTx.java",
+    "cognitive_complexity": "12"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/proto/network/CoreNetworkProtoResolver.java",
+    "cognitive_complexity": "12"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/filter/Filter.java",
+    "cognitive_complexity": "12"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/FormBuilder.java",
+    "cognitive_complexity": "12"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/peers/getdata/GetDataRequestHandler.java",
+    "cognitive_complexity": "12"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/validation/InteracETransferValidator.java",
+    "cognitive_complexity": "12"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/JFXTextFieldSkinBisqStyle.java",
+    "cognitive_complexity": "12"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/offer/offerbook/OfferBook.java",
+    "cognitive_complexity": "12"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/governance/PhasesView.java",
+    "cognitive_complexity": "12"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/user/PreferencesPayload.java",
+    "cognitive_complexity": "12"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/alert/PrivateNotificationManager.java",
+    "cognitive_complexity": "12"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/SendPrivateNotificationWindow.java",
+    "cognitive_complexity": "12"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/TooltipUtil.java",
+    "cognitive_complexity": "12"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/TxFeeEstimationService.java",
+    "cognitive_complexity": "12"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/state/unconfirmed/UnconfirmedBsqChangeOutputListService.java",
+    "cognitive_complexity": "12"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/monetary/Altcoin.java",
+    "cognitive_complexity": "11"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/nodes/BtcNodeConverter.java",
+    "cognitive_complexity": "11"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/ClockWatcher.java",
+    "cognitive_complexity": "11"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/locale/CountryUtil.java",
+    "cognitive_complexity": "11"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/DnsLookupTor.java",
+    "cognitive_complexity": "11"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/voteresult/MissingDataRequestService.java",
+    "cognitive_complexity": "11"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/notifications/MobileNotificationValidator.java",
+    "cognitive_complexity": "11"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/offer/availability/OfferAvailabilityProtocol.java",
+    "cognitive_complexity": "11"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/offer/OpenOffer.java",
+    "cognitive_complexity": "11"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/openoffer/OpenOffersViewModel.java",
+    "cognitive_complexity": "11"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/util/ParsingUtils.java",
+    "cognitive_complexity": "11"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/util/PermutationUtil.java",
+    "cognitive_complexity": "11"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/proto/ProtoDevUtil.java",
+    "cognitive_complexity": "11"
+  },
+  {
+    "path": "relay/src/main/java/bisq/relay/RelayService.java",
+    "cognitive_complexity": "11"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/util/Tuple5.java",
+    "cognitive_complexity": "11"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/UnlockDisputeAgentRegistrationWindow.java",
+    "cognitive_complexity": "11"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/tasks/ApplyFilter.java",
+    "cognitive_complexity": "10"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/support/dispute/Dispute.java",
+    "cognitive_complexity": "10"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/failedtrades/FailedTradesViewModel.java",
+    "cognitive_complexity": "10"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/full/network/GetBlocksRequestHandler.java",
+    "cognitive_complexity": "10"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/peers/peerexchange/GetPeersRequestHandler.java",
+    "cognitive_complexity": "10"
+  },
+  {
+    "path": "monitor/src/main/java/bisq/monitor/metric/P2PMarketStats.java",
+    "cognitive_complexity": "10"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/Socks5ProxyProvider.java",
+    "cognitive_complexity": "10"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/state/model/blockchain/Tx.java",
+    "cognitive_complexity": "10"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/TxIdTextField.java",
+    "cognitive_complexity": "10"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/common/UITimer.java",
+    "cognitive_complexity": "10"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/app/misc/AppSetupWithP2P.java",
+    "cognitive_complexity": "9"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/BitcoinModule.java",
+    "cognitive_complexity": "9"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/monitor/blindvotes/BlindVoteStateMonitorView.java",
+    "cognitive_complexity": "9"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/config/CompositeOptionSet.java",
+    "cognitive_complexity": "9"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/CurrencyList.java",
+    "cognitive_complexity": "9"
+  },
+  {
+    "path": "assets/src/main/java/bisq/asset/coins/Horizen.java",
+    "cognitive_complexity": "9"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/paymentmethods/MoneyGramForm.java",
+    "cognitive_complexity": "9"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/myvote/MyVoteListService.java",
+    "cognitive_complexity": "9"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/notifications/Notification.java",
+    "cognitive_complexity": "9"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/monitor/proposals/ProposalStateMonitorView.java",
+    "cognitive_complexity": "9"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/tasks/PublishTradeStatistics.java",
+    "cognitive_complexity": "9"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/tasks/seller/SellerPublishesDepositTx.java",
+    "cognitive_complexity": "9"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/statistics/TradeStatistics2.java",
+    "cognitive_complexity": "9"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/statistics/TradeStatisticsForJson.java",
+    "cognitive_complexity": "9"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/TradeUtils.java",
+    "cognitive_complexity": "9"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/Transitions.java",
+    "cognitive_complexity": "9"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/util/Tuple4.java",
+    "cognitive_complexity": "9"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/voteresult/VoteResultConsensus.java",
+    "cognitive_complexity": "9"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/model/AddressEntry.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/AddressTextField.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/blindvote/BlindVoteValidator.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/nodes/BtcNetworkConfig.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/util/coin/CoinUtil.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/setup/CommonSetup.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/CurrencyListItem.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/network/p2p/seed/DefaultSeedNodeRepository.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/notifications/alerts/DisputeMsgEvents.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "monitor/src/main/java/bisq/monitor/reporter/GraphiteReporter.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/JFXTextAreaSkinBisqStyle.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/crypto/KeyStorage.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "monitor/src/main/java/bisq/monitor/Monitor.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/settings/network/P2pNetworkListItem.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/payment/PaymentAccounts.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/PopOverWrapper.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/account/content/notifications/QrCodeReader.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/validation/SecurityDepositValidator.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/payment/payload/SpecificBanksAccountPayload.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/taskrunner/TaskRunner.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/pendingtrades/TradeSubView.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/TradingPeer.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/wallet/TxBroadcaster.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/app/Version.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/monetary/Volume.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/wallet/WalletsManager.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/paymentmethods/WesternUnionForm.java",
+    "cognitive_complexity": "8"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/common/view/ActivatableView.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/common/view/ActivatableViewAndModel.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/ballot/BallotListService.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/validation/BankIdValidator.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/BsqAddressTextField.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/DaoFacade.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/tasks/mediation/FinalizeMediatedPayoutTx.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/FundsTextField.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/payment/JapanBankAccount.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/payment/payload/NationalBankAccountPayload.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/notifications/NotificationManager.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "monitor/src/main/java/bisq/monitor/metric/P2PSeedNodeSnapshotBase.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/popups/PopupManager.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/state/model/blockchain/PubKeyScript.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/payment/ReceiptValidator.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/payment/payload/SameBankAccountPayload.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/SellerAsMakerProtocol.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/util/Tuple3.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/state/model/blockchain/TxOutput.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/governance/result/VoteListItem.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/funds/withdrawal/WithdrawalListItem.java",
+    "cognitive_complexity": "7"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/payment/validation/AltCoinAddressValidator.java",
+    "cognitive_complexity": "6"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/storage/CorruptedDatabaseFilesHandler.java",
+    "cognitive_complexity": "6"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/tasks/taker/CreateTakerFeeTx.java",
+    "cognitive_complexity": "6"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/period/CycleService.java",
+    "cognitive_complexity": "6"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/support/dispute/agent/DisputeAgentView.java",
+    "cognitive_complexity": "6"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/parser/GenesisTxParser.java",
+    "cognitive_complexity": "6"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/ImageUtil.java",
+    "cognitive_complexity": "6"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/state/model/governance/Issuance.java",
+    "cognitive_complexity": "6"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/notifications/MobileMessageEncryption.java",
+    "cognitive_complexity": "6"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/validation/MonetaryValidator.java",
+    "cognitive_complexity": "6"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/market/offerbook/OfferListItem.java",
+    "cognitive_complexity": "6"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/state/model/blockchain/ScriptType.java",
+    "cognitive_complexity": "6"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/SellerAsTakerProtocol.java",
+    "cognitive_complexity": "6"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/app/SetupUtils.java",
+    "cognitive_complexity": "6"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/tasks/mediation/SignMediatedPayoutTx.java",
+    "cognitive_complexity": "6"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/parser/TempTx.java",
+    "cognitive_complexity": "6"
+  },
+  {
+    "path": "monitor/src/main/java/bisq/monitor/ThreadGate.java",
+    "cognitive_complexity": "6"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/presentation/AccountPresentation.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/paymentmethods/AdvancedCashForm.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/monetary/AltcoinExchangeRate.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/BalanceWithConfirmationTextField.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "cli/src/main/java/bisq/cli/app/BisqCliMain.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/parser/BlockParser.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/BsqNodeProvider.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/app/Capabilities.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/state/model/governance/ChangeParamProposal.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/support/messages/ChatMessage.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/validation/ClearXchangeValidator.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/DaoKillSwitch.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/state/model/governance/DaoPhase.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/downloadupdate/DownloadTask.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/editoffer/EditOfferView.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/paymentmethods/FasterPaymentsForm.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/util/validation/IntegerValidator.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "monitor/src/main/java/bisq/monitor/metric/MarketStats.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/util/MathUtils.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/MovingAverageUtils.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/notifications/alerts/MyOfferTakenEvents.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/validation/NumberValidator.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/offer/OfferForJson.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/payment/PaymentAccount.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/validation/PercentageNumberValidator.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/util/Preconditions.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/provider/price/PriceProvider.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/tasks/mediation/ProcessMediatedPayoutTxPublishedMessage.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/proto/ProtoUtil.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/statistics/ReferralIdService.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/util/RestartUtil.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/wallet/Restrictions.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/paymentmethods/RevolutForm.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/bonding/roles/RolesListItem.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/crypto/ScryptUtil.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/ShowWalletDataWindow.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/Socks5DnsDiscovery.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/Socks5MultiDiscovery.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "monitor/src/main/java/bisq/monitor/StatisticsHelper.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/TradableList.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/support/traderchat/TradeChatSession.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/util/Tuple2.java",
+    "cognitive_complexity": "5"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/setup/BisqKeyChainFactory.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/overlays/windows/BsqEmptyWalletWindow.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/nodes/BtcNodesRepository.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/nodes/BtcNodesSetupPreferences.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/BuyerAsMakerTrade.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/BuyerAsTakerTrade.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/pendingtrades/steps/buyer/BuyerStep1View.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/market/trades/charts/price/Candle.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/config/ConfigFileOption.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/config/ConfigFileReader.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/proto/persistable/CorePersistenceProtoResolver.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/monitor/daostate/DaoStateMonitorView.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/support/dispute/DisputeSession.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "assets/src/main/java/bisq/asset/coins/Ergo.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "pricenode/src/main/java/bisq/price/spot/ExchangeRate.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/paymentmethods/F2FForm.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/util/validation/HexStringValidator.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/voteresult/issuance/IssuanceService.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/explorer/JsonTx.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/explorer/JsonTxOutput.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/btc/nodes/LocalBitcoinNode.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "p2p/src/main/java/bisq/network/p2p/network/LocalhostNetworkNode.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/MenuItem.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "assets/src/main/java/bisq/asset/coins/Mile.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/proofofburn/MyProofOfBurn.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/proofofburn/MyProofOfBurnListService.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/bond/reputation/MyReputation.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/governance/bond/reputation/MyReputationListService.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/validation/NationalAccountIdValidator.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/offer/messages/OfferAvailabilityResponse.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/offer/OfferPayload.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/validation/PasswordValidator.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "assets/src/main/java/bisq/asset/RegexAddressValidator.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/util/validation/RegexValidator.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/state/model/governance/Role.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/SellerAsMakerTrade.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/SellerAsTakerTrade.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/portfolio/pendingtrades/steps/seller/SellerStep2View.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "common/src/main/java/bisq/common/crypto/Sig.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/main/dao/economy/supply/SupplyView.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "desktop/src/main/java/bisq/desktop/components/paymentmethods/SwishForm.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/protocol/tasks/taker/TakerVerifyAndSignContract.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/dao/node/parser/TempTxOutput.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "monitor/src/main/java/bisq/monitor/metric/TorRoundTripTime.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/app/TorSetup.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/presentation/TradePresentation.java",
+    "cognitive_complexity": "4"
+  },
+  {
+    "path": "core/src/main/java/bisq/core/trade/statistics/TradeStatistics.java",
+    "cognitive_complexity": "4"
+  }
+]
